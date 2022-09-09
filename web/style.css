@@ -1,0 +1,25 @@
+H1{
+	color : blue;
+	text-align : center;
+}
+
+H2{
+	color : blue;
+	text-align : center;
+}
+
+p{
+	color : red;
+	background-color : Silver;
+	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+	opacity: 0.9;
+	padding : 20px;
+}
+
+#paragraphe3{color : blue; border-style: dashed; border-width: 5px; border-color:blue; margin: 40px;}
+
+.derniers_paragraphes{color : green; border-style: dotted; border-width:3px; border-color: green;}
+
+body{background-image: url("https://i.pinimg.com/originals/79/27/7e/79277e08578b671a47b1bf49a57a0afd.jpg");}
